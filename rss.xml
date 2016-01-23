@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Elizabeth Haag]]></title>
         <description><![CDATA[Elizabeth Haag]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/elizabeth-haag/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 17:30:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Jan 2016 17:43:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elizabeth-haag/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/380de466-9897-4736-9b04-222b31d232a6.jpg">]]></description>
-            <link>undefined1ae42fcb-1ed9-43a5-bb6d-408c206bf875/index.html</link>
+            <description><![CDATA[<p>Hello world. I'm just a college student with an affinity for teatime, travel, photography, beautiful things, and walking through my university's law library like I'm already a law student (I'm not). Here I'll post fashion and beauty inspiration, recipes, home decor, and other things that make daily life extra sparkly.</p>]]></description>
+            <link>https://thegrid.ai/elizabeth-haag/1ae42fcb-1ed9-43a5-bb6d-408c206bf875/index.html</link>
             <guid isPermaLink="false">1ae42fcb-1ed9-43a5-bb6d-408c206bf875</guid>
-            <pubDate>Sat, 23 Jan 2016 17:30:48 GMT</pubDate>
+            <pubDate>Sat, 23 Jan 2016 17:43:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
